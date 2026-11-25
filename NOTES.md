@@ -36,7 +36,10 @@ Total: 283 chars incl. trailing newline (282 excl.) — within the 1–400 gate.
 
 ## Repo
 
-- GitHub: Shanumameyra/everyday-things-two-lines-20261125
+- GitHub: Shanumameyra/everyday-things-two-lines-20261125 — https://github.com/Shanumameyra/everyday-things-two-lines-20261125
+- Commit: 4704343d3aad83a099fe42070609cbcf41166234 (pushed 2026-11-25 ~06:28 UTC; remote HEAD matches local HEAD)
+- GitHub repo creation hit the "too many repositories, too quickly" rate limit: 3 retries failed after 600+900+1200s backoff; a further 1800s wait succeeded (repo view then showed it already existed — an earlier create call had created it server-side despite the error — and the push went through).
+- About verified: homepage https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479, topic `makefun`, visibility PUBLIC. All 5 files present on remote (main.py, README.md, LICENSE, NOTES.md, .makefun/).
 - Files: main.py, README.md (3 make.fun badges), LICENSE (MIT, SPDX identifier), .makefun/owner.json (wallet above)
 - Git identity (repo-local): Shanumameyra / prayogaromi54@gmail.com
 - Build only — NOT bundled, NOT submitted (finisher handles that).
